@@ -15,7 +15,7 @@ To build an API for a social network web application where users can share their
 
 ## Installation
 
-Must instal Mongo db/ MongooseExpress.js](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose
+Must install Mongo db/ [MongooseExpress.js](https://www.npmjs.com/package/express) and [Mongoose](https://www.npmjs.com/package/mongoose)
 
 ## Usage
 
